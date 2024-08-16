@@ -1,0 +1,2 @@
+$Q: The weight of every player on a school’s football team is recorded. What type of data collection is this?
+$C: Population
