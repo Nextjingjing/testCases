@@ -1,0 +1,6 @@
+$q: The weight of every player on a school’s football team is recorded. What type of data collection is this?
+$a: Population
+$a: Sample
+$a: All answers are correct
+$a: All answers are wrong
+$c: Population
