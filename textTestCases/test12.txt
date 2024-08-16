@@ -1,0 +1,28 @@
+$Q: The weight of every player on a school’s football team is recorded. What type of data collection is this?
+$A: Population
+$A: Sample
+$A: All answers are correct
+$A: All answers are wrong
+$C: Population
+
+$Q: The weight of every player on a school’s football team is recorded. What type of data collection is this?
+$A: Population
+$A: Sample
+$A: All answers are correct
+$C: Population
+$A: All answers are wrong
+
+
+$Q: The weight of every player on a school’s football team is recorded. What type of data collection is this?
+$A: Population
+$A: Sample
+$A: All answers are correct
+$A: All answers are wrong
+$C: Population
+
+$Q: The weight of every player on a school’s football team is recorded. What type of data collection is this?
+$A: Population
+$A: Sample
+$A: All answers are correct
+$A: All answers are wrong
+$C: Population
